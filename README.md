@@ -1,6 +1,5 @@
 ## Pokedex Example
-
-#### View this app on [Heroku.](https://simenmh-pokedex.herokuapp.com/)
+- A week long assignment given to me during an interview process
 
 ### This project showcases the use of:
 
