@@ -1,5 +1,5 @@
 ## Pokedex Example
-A week long assignment given to me during an interview process
+A three day long assignment given to me during an interview process
 
 ### This project showcases the use of:
 
