@@ -1,5 +1,4 @@
 ## Pokedex Example
-A three day long assignment given to me during an interview process
 
 ### This project showcases the use of:
 
